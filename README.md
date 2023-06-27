@@ -8,7 +8,7 @@ Benefits of script
 - Opportunity for automated visualizations of your spending habits
 
 Requirements:
-- Python
+- Python + difflib and pandas libraries
 - Create a folder called 'statements_to_analyze'
 - Download your statements in csv or excel into the above folder
 
